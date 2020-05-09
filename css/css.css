@@ -1543,3 +1543,496 @@ footer div.pd-address {
     }
 
 }
+
+
+
+
+
+
+
+
+
+@media (max-width: 575.98px) {
+
+    body {
+        font-size: 1rem;
+        min-width: 300px;
+    }
+
+
+
+
+
+    header {
+        padding: 0;
+        margin-top: -2em;
+    }
+
+    header div.header-logo {
+        width: 35%;
+        text-align: center;
+    }
+
+    header div.header-logo img.logo {
+        width: 70%;
+        margin-top: -1em;
+        display: inline-block;
+    }
+
+    header div.header-address {
+        width: 100%;
+        padding: 0 1.5em;
+        margin-top: 1em;
+        clear: both;
+    }
+
+    header div.header-phone {
+        width: 100%;
+        clear: both;
+        padding: 0 1.5em;
+        margin-top: 2em;
+    }
+
+    header div.header-phone a {
+        text-decoration: none;
+        color: #000;
+    }
+
+    header div.header-phone .slab-xl {
+        font-size: 1.5em;
+        width: 100%;
+    }
+
+    header div.header-phone br {
+        display: none;
+    }
+
+    header .header-hamburger {
+        position: absolute;
+        top: 3em;
+        right: 2.5em;
+    }
+
+    header div.header-socials {
+        position: absolute;
+        top: 7em;
+        right: 1.6em;
+        z-index: 3;
+    }
+
+    header div.header-socials img {
+        margin-bottom: 2px;
+    }
+
+
+    a.black-link span::after {
+        display: none;
+    }
+
+    a.black-link-xl span::after {
+        display: none;
+    }
+
+
+
+    .slab-xl {
+        font-size: 1.3em;
+    }
+
+    .slab-xxl {
+        font-size: 2em;
+    }
+
+    .slab-xxxl {
+        font-size: 2.5em;
+    }
+
+    p.accent {
+        line-height: 130%;
+    }
+
+    .menu .menuContent img {
+        max-width: 60%;
+    }
+
+    .menu .menuContent .slab-xl {
+        font-size: 3em;
+        margin: 0.5em 0 0.6em 0;
+    }
+
+
+    .pd-greatings br {
+        display: none;
+    }
+
+    div.letterpress {
+        overflow: hidden;
+    }
+
+    div.letterpress img {
+        min-width: 800px;
+        display: inline-block;
+    }
+
+    .promo {
+        display: NONE;
+    }
+
+    .high-quality {
+        width: 100%;
+        margin: -10em 0 3em 0;
+        overflow: hidden;
+        padding: 0 1.5em;
+    }
+
+    .high-quality img {
+        width: 105%;
+        margin-bottom: 2em;
+    }
+
+    .high-quality div.title-text-1 {
+        width: 100%;
+    }
+
+    .fuck-creativity {
+        clear: both;
+        float: left;
+        max-width: none;
+        margin: 0;
+    }
+
+    .fuck-creativity .vangogh-died {
+        width: 100%;
+        margin-left: 0;
+        padding: 0 1.5em;
+    }
+
+    .fuck-creativity .vangogh-died .slab-xxl {
+        text-align: center;
+    }
+
+    .fuck-creativity .vangogh-picture {
+        position: relative;
+        margin-left: 0;
+        width: 100%;
+        text-align: center;
+        margin-bottom: 1.5em;
+    }
+
+    .fuck-creativity .vangogh-picture img {
+        position: relative;
+        max-width: none;
+        display: inline-block;
+    }
+
+    .fuck-creativity .vangogh-picture div.gogh-frame1 {
+        margin: -5em 0 0 75%;
+    }
+
+    .fuck-creativity .vangogh-picture div.gogh-frame2 {
+        margin: -29em 0 0 0;
+    }
+
+    .letterpress2 {
+        display: none;
+    }
+
+    .letterpress2-small {
+        display: block !important;
+        width: 100%;
+        text-align: center;
+        padding-right: 0;
+        overflow: hidden;
+        margin-top: -7em;
+    }
+
+    .letterpress2-small img {
+        height: 30vh;
+        max-width: none;
+    }
+
+    div.why-we-form {
+        margin-top: 15em;
+        padding: 0;
+    }
+
+    div.why-we {
+        padding: 0 1.5em;
+        margin-right: 0;
+        width: 100%;
+    }
+
+    div.why-we p {
+        margin-bottom: 0.5em;
+    }
+
+    div.why-we br {
+        display: none;
+    }
+
+    div.why-we .accent-2 {
+        margin-top: 2em;
+    }
+
+    div.question-form {
+        width: 100%;
+        margin-top: 2em;
+    }
+
+    div.question-form-inner {
+        padding: 2em 1.5em 0 1.5em;
+    }
+
+    .pd-clients {
+        width: 100%;
+        padding: 4em 0;
+    }
+
+    .pd-clients-header {
+        margin-top: 1em;
+        text-align: left;
+        padding: 0 0.3em;
+    }
+
+    .pd-clients .pd-clients-right {
+        width: 100%;
+        padding: 0
+    }
+
+    .pd-clients .pd-clients-right .pd-lamps {
+        display: none;
+        height: 200px;
+        overflow: hidden;
+        top: -1em;
+        width: 100%;
+    }
+
+    .pd-clients-right .pd-lamps img {
+        margin-top: 0;
+        width: 100%;
+    }
+
+    .pd-clients .pd-clients-right .pd-lamps-small {
+        display: block !important;
+        height: 200px;
+        overflow: hidden;
+        top: -1em;
+        width: 100%;
+    }
+
+    .pd-clients-right .pd-lamps-small img {
+        margin-top: 12em;
+        width: 100%;
+    }
+
+    .pd-clients .pd-clients-right p {
+        width: 100%;
+        margin-bottom: 3em;
+        padding: 0 1.5em;
+    }
+
+    .pd-clients .pd-clients-right .font-grey {
+        color: rgba(0, 0, 0, 1);
+    }
+
+    .pd-clients .pd-clients-left {
+        display: none;
+    }
+
+    .pd-clients .pd-clients-left,
+    .pd-clients .pd-clients-center {
+        width: 100%;
+        margin-top: 3em;
+    }
+
+    .pd-client-postman-text {
+        display: none;
+    }
+
+    .pd-client-postman-text-small {
+        display: block !important;
+    }
+
+
+    .pd-special-for {
+        width: 100%;
+        padding-left: 0;
+    }
+
+    .pd-special-for-inner {
+        max-width: 560px;
+        text-align: center;
+        float: none;
+        margin: 0 auto 5em auto;
+    }
+
+    .pd-special-for-inner img {
+        width: 30%;
+        position: relative;
+        display: inline-block;
+        margin: 0 0 2em 0;
+    }
+
+    .pd-special-for-inner p.accent {
+        width: 100%;
+        clear: both;
+    }
+
+    .pd-special-for-inner p.special-text {
+        padding: 0 1.5em;
+    }
+
+    .pd-faq-poster {
+        width: 100%;
+        display: none;
+    }
+
+    .pd-faq {
+        width: 100%;
+        margin-top: 3em;
+    }
+
+    .pd-faq .slab-xxxl {
+        width: 100%;
+        text-align: left;
+        padding: 0 0.5em;
+    }
+
+    .pd-faq-inner {
+        max-width: none;
+    }
+
+    .pd-faq .tab-group {
+        padding: 0 1.5em;
+        max-width: none;
+    }
+
+    .pd-faq .tab-group input[id^=tab]:checked ~ .tab-content {
+        height: 30em;
+    }
+
+    .pd-faq-inner .faq-3-1 {
+        width: 100%;
+    }
+
+    .pd-faq-inner .faq-3-2 {
+        width: 100%;
+        clear: both;
+        text-align: center;
+    }
+
+    .pd-faq-inner .faq-3-2 img {
+        display: inline-block;
+    }
+
+    aside {
+        padding: 3em 1.5em;
+        margin: 0;
+    }
+
+    aside div.side-services-1 {
+        width: 60%;
+    }
+
+    aside div.side-services-2 {
+        width: 40%;
+    }
+
+    aside div.side-services-3 {
+        width: 100%;
+        clear: both;
+        margin-top: 2em;
+    }
+
+    aside div.side-certificates {
+        width: 100%;
+        text-align: left;
+        margin-top: 0;
+    }
+
+    aside div.side-certificates img {
+        float: none;
+        display: inline-block;
+    }
+
+    aside div.side-certificates img.cer-gost,
+    aside div.side-certificates img.cer-iso,
+    aside div.side-certificates img.cer-ohsas {
+        width: auto;
+        height: 5em;
+    }
+
+    aside div.side-certificates div {
+        display: inline-block;
+        float: none;
+        vertical-align: middle;
+        width: 32%;
+        text-align: center;
+    }
+
+    aside div.side-announcement {
+        margin-top: 1em;
+        width: 100%;
+    }
+
+    footer {
+        padding: 0 1.5em;
+    }
+
+    footer div.pd-phone {
+        width: 100%;
+        margin-bottom: 1.5em;
+        margin-top: 3em;
+    }
+
+    footer div.pd-phone .slab-xl {
+        font-size: 1.5em;
+        line-height: 130%;
+    }
+
+    footer div.pd-phone .font-s {
+        font-size: 1em;
+    }
+
+    footer div.pd-phone a {
+        text-decoration: none;
+        color: #000;
+    }
+
+    footer div.pd-phone span {
+        font-weight: 400;
+    }
+
+    footer div.pd-phone img {
+        display: inline-block;
+        width: 1em;
+        height: auto;
+        margin-bottom: -0.1em;
+    }
+
+    footer div.pd-mail {
+        width: 100%;
+        text-align: left;
+        clear: both;
+        margin-bottom: 1.5em;
+    }
+
+    footer div.pd-address {
+        width: 100%;
+        text-align: left;
+        clear: both;
+    }
+
+    footer .pd-copy {
+        width: 100%;
+    }
+
+    footer .pd-socials-footer {
+        float: right;
+    }
+
+    .pd-copy-policies-social img {
+        margin: 0 0 0 5px;
+    }
+
+}

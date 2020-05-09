@@ -225,7 +225,7 @@
         <div class="high-quality">
             <img src="images/svg/high-quality.svg" alt="Высокое качество" />
             <div class="slab-xxl pd-greatings">
-                Приветствуем вас, дорогой гость,<br />на нашей скромной мануфактуре!
+                Приветствуем вас, дорогой гость, <br />на нашей скромной мануфактуре!
             </div>
 
             <div class="title-text-1">
@@ -277,6 +277,9 @@
     <div class="letterpress2 rellax" data-rellax-speed="-2">
         <img src="images/letterpress2.jpg" alt="Типография в Южно-Сахалинске: баннеры, плакаты, буклеты, визитки, знаки, печать на одежде и прочее.">
     </div>
+    <div style="display: none;" class="letterpress2-small rellax" data-rellax-speed="-1">
+        <img src="images/letterpress2.jpg" alt="Типография в Южно-Сахалинске: баннеры, плакаты, буклеты, визитки, знаки, печать на одежде и прочее.">
+    </div>
 
     <div class="why-we-form">
         <div class="why-we">
@@ -307,7 +310,7 @@
                 <div class="question-form-inner">
 
                     <p class="accent">
-                        Бесплатно проконсультируем, поможем рассчитать стоимость и оформить заказ.
+                        Бесплатно проконсультируем, поможем рассчитать стоимость и оформить заказ:
                     </p>
 
                     <input type="hidden" name="formID" value="201061858349054" />
@@ -401,7 +404,7 @@
                     Получить консультацию
                 </button>
 
-                <p class="font-s form-agreement">Нажимая кнопку,<br />Вы соглашаетесь с <a href="/policy/">политикой конфиденциальности</a></p>
+                <p class="font-s form-agreement">Нажимая кнопку,<br />Вы соглашаетесь с <a href="policy/">политикой конфиденциальности</a></p>
 
             </form>
 
@@ -424,18 +427,21 @@
             <div class="pd-lamps">
                 <img class="rellax" data-rellax-speed="2" src="images/vintage-banner-lamps.jpg" alt="Дореволюционная реклама" />
             </div>
+            <div class="pd-lamps-small">
+                <img style="display none;" class="rellax" data-rellax-speed="1" src="images/vintage-banner-lamps.jpg" alt="Дореволюционная реклама" />
+            </div>
         </div>
 
 
         <div class="pd-clients-left">
 
-            <div class="pd-client-review">
+            <div class="pd-client-review review-1">
                 <img class="review-postman" src="images/post1.jpg" alt="Почтальон" />
                 <p class="pd-client-postman-text font-grey">Скоро эти почтальоны доставят отзывы от&nbsp;наших постоянных клиентов.
                 </p>
             </div>
 
-            <div class="pd-client-review">
+            <div class="pd-client-review review-2">
                 <img class="review-postman" src="images/post2.jpg" alt="Почтальон" />
                 <p class="pd-client-postman-text font-grey">Вот этот уже&nbsp;спускается по&nbsp;лестнице.
                 </p>
@@ -445,16 +451,18 @@
 
         <div class="pd-clients-center">
 
-            <div class="pd-client-review">
+            <div class="pd-client-review review-3">
                 <img class="review-company-logo gazprom" src="images/svg/gazprom-logo.svg" alt="Логотип Газпром" />
                 <p class="pd-client-review-text">Работаю с&nbsp;компанией «Печатный двор» давно. Всегда приветливый персонал: прихожу&nbsp;ли сама в&nbsp;офис, общаюсь&nbsp;ли по&nbsp;телефону или получаю ответное письмо. Внимательно относятся ко&nbsp;всем нашим полиграфическим проектам, предлагают интересные варианты, оперативно реагируют на&nbsp;корректировку и&nbsp;качественно воплощают задуманное.</p>
                 <img class="review-client-photo" src="images/client-2.png" alt="Отзыв клиента" />
                 <p class="review-client-name">Лариса Г.<br />Специалист по&nbsp;связям с&nbsp;общественностью,<br />ПАО «Газпром»</p>
             </div>
 
-            <div class="pd-client-review">
+            <div class="pd-client-review review-4">
                 <img class="review-postman" src="images/post3.jpg" alt="Почтальон" />
                 <p class="pd-client-postman-text font-grey">Так, что у нас тут&hellip;
+                </p>
+                <p style="display: none;" class="pd-client-postman-text-small font-grey">Скоро этот почтальон доставит отзывы от&nbsp;наших постоянных клиентов.
                 </p>
             </div>
 
@@ -465,7 +473,7 @@
             <div class="pd-special-for-inner">
                 <img src="images/svg/special.svg" alt="Специальные условия для крупных заказчиков" />
                 <p class="accent">Обратите внимание:</p>
-                <p>
+                <p class="special-text">
                     Мы готовы работать с крупными заказчиками и рекламными агентствами на особых условиях. По всем вопросам пишите на почту <a class="black-link" href="mailto:info@pechatny-dvor.ru?subject=Сотрудничество"><span>info@pechatny-dvor.ru</span></a> с пометкой «Сотрудничество».
                 </p>
             </div>
@@ -588,7 +596,7 @@
             <div><img class="cer-ohsas" src="images/ohsas18001.png" alt="Сертификация OHSAS 18001" /></div>
         </div>
         <div class="side-announcement">
-            Обратите внимание: все информационные знаки и указатели изготавливаются в соответствии с ГОСТ. Кроме того, работая на любым заказом, требующим максимальной точности и следовании правилам, мы тщательно изучим соответствующие материалы. Даже если вы нас об этом не попросите.
+            Обратите внимание: все информационные знаки и указатели изготавливаются в соответствии с ГОСТ. Кроме того, работая на любым заказом, требующим максимальной точности и следования правилам, мы тщательно изучим соответствующие материалы. Даже если вы нас об этом не попросите.
         </div>
     </aside>
 
@@ -673,24 +681,23 @@
 
 <!--
 
-Сделано с ненавистью в 2020 году.  
-===================
-
-Дизайн, текст, код и геморрой: 
-w1nt3rmute911@gmail.com
-
-===================
 
 
 
+ Сделано с ненавистью в 2020 году.
+  
+======================================
+H                                    H 
+H   Дизайн, текст, код и геморрой:   H    
+H      w1nt3rmute911@gmail.com       H
+H                                    H
+======================================
+
+      P.S. Помогите, меня держат
+       в заложниках на Сахалине.
+
+                 ;(
 
 
-
-
-
-
-
-
-P.S. Помогите, меня держат в заложниках на Сахалине.
 
 -->

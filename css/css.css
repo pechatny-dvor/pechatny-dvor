@@ -828,6 +828,10 @@ img.review-postman {
     top: 17em;
 }
 
+.pd-lamps-small {
+    display: none;
+}
+
 .pd-special-for {
     width: 100%;
     padding-left: 200px;
@@ -1120,7 +1124,7 @@ footer div.pd-address {
 
 .policy-and-cookies {
     max-width: 900px;
-    padding: 3em 0;
+    padding: 3em 1.5em;
 }
 
 .policy-and-cookies h1 {
@@ -1624,6 +1628,10 @@ footer div.pd-address {
         margin-bottom: 2px;
     }
 
+    a.black-link span,
+    a.black-link-xl span {
+        border-bottom: 1px black solid;
+    }
 
     a.black-link span::after {
         display: none;
@@ -1813,7 +1821,7 @@ footer div.pd-address {
     }
 
     .pd-clients .pd-clients-right .pd-lamps-small {
-        display: block !important;
+        display: block;
         height: 200px;
         overflow: hidden;
         top: -1em;
@@ -1851,6 +1859,22 @@ footer div.pd-address {
 
     .pd-client-postman-text-small {
         display: block !important;
+    }
+
+    img.review-company-logo {
+        max-width: 128px;
+        margin-bottom: 1em;
+    }
+
+    img.review-client-photo {
+        max-width: 64px;
+        margin-left: 0;
+    }
+
+    .review-client-name {
+        margin-top: 1em;
+        font-size: 0.9em;
+        line-height: 140%;
     }
 
 
@@ -2033,6 +2057,10 @@ footer div.pd-address {
 
     .pd-copy-policies-social img {
         margin: 0 0 0 5px;
+    }
+
+    .policy-and-cookies h1 {
+        font-size: 2em;
     }
 
 }

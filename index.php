@@ -428,7 +428,7 @@
                 <img class="rellax" data-rellax-speed="2" src="images/vintage-banner-lamps.jpg" alt="Дореволюционная реклама" />
             </div>
             <div class="pd-lamps-small">
-                <img style="display none;" class="rellax" data-rellax-speed="1" src="images/vintage-banner-lamps.jpg" alt="Дореволюционная реклама" />
+                <img class="rellax" data-rellax-speed="1" src="images/vintage-banner-lamps.jpg" alt="Дореволюционная реклама" />
             </div>
         </div>
 

@@ -245,6 +245,10 @@ header div.header-address {
     width: 33%;
 }
 
+header div.header-address div {
+    clear: both;
+}
+
 header div.header-phone {
     width: 29%;
 }
@@ -466,7 +470,7 @@ div.letterpress img {
     width: 59%;
     position: relative;
     z-index: 2;
-    margin: -40vh 0 7em 0;
+    margin: -25vh 0 7em 0;
 }
 
 .high-quality img {
@@ -825,7 +829,12 @@ img.review-postman {
 
 .pd-clients .pd-clients-right .pd-lamps {
     position: relative;
-    top: 17em;
+}
+
+.pd-clients .pd-clients-right img {
+    position: relative;
+    display: block;
+    margin-top: 25em;
 }
 
 .pd-lamps-small {
@@ -875,7 +884,7 @@ img.review-postman {
 
 .pd-faq-poster img {
     float: right;
-    top: 36em;
+    top: 50em;
     position: relative;
 }
 
@@ -1678,8 +1687,9 @@ footer div.pd-address {
     }
 
     div.letterpress img {
-        min-width: 800px;
+        min-width: 570px;
         display: inline-block;
+        margin-left: -20%;
     }
 
     .promo {
@@ -1688,14 +1698,14 @@ footer div.pd-address {
 
     .high-quality {
         width: 100%;
-        margin: -10em 0 3em 0;
+        margin: -1vh 0 3em 0;
         overflow: hidden;
         padding: 0 1.5em;
     }
 
     .high-quality img {
         width: 105%;
-        margin-bottom: 2em;
+        margin-bottom: 8em;
     }
 
     .high-quality div.title-text-1 {

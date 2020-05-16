@@ -457,11 +457,10 @@
             </div>
 
             <div class="pd-client-review review-4">
-                <img class="review-postman" src="images/post3.jpg" alt="Почтальон" />
-                <p class="pd-client-postman-text font-grey">Так, что у нас тут&hellip;
-                </p>
-                <p style="display: none;" class="pd-client-postman-text-small font-grey">Скоро этот почтальон доставит отзывы от&nbsp;наших постоянных клиентов.
-                </p>
+                <img class="review-company-logo igs" src="images/igs.png" alt="Айленд Дженерал Сервисез" />
+                <p class="pd-client-review-text">Компания IGS выражает свою благодарность за&nbsp;сотрудничество, оперативную работу высокого качества. Отдельно хочется отметить, что в&nbsp;компании работает компетентный приветливый персонал. Услуги всегда предоставляются качественно и&nbsp;в&nbsp;срок, учитывая все пожелания клиента. Будем рады и&nbsp;дальше с&nbsp;вами сотрудничать.</p>
+                <img class="review-client-photo" src="images/client-4.png" alt="Отзыв клиента" />
+                <p class="review-client-name">Тамара С.<br />&laquo;Айленд Дженерал Сервисез&raquo;</p>
             </div>
 
         </div>

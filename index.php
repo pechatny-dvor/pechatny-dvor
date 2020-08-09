@@ -174,6 +174,8 @@
             <nobr>Мы работаем с 9 до 18</nobr>
             <br />
             <nobr>с понедельника по пятницу</nobr>
+            <br />
+            <a class="black-link" style="cursor: pointer" href="pdf/Печатный-Двор.pdf"><span>Коммерческое предложение (pdf)</span></a>
         </div>
 
         <div class="header-hamburger">

@@ -434,14 +434,15 @@
         <div class="pd-clients-left">
 
             <div class="pd-client-review review-1">
-                <img class="review-postman" src="images/post1.jpg" alt="Почтальон" />
-                <p class="pd-client-postman-text font-grey">Скоро эти почтальоны доставят отзывы от&nbsp;наших постоянных клиентов.
-                </p>
+                <img class="review-company-logo seico" src="images/svg/seico-logo.svg" alt="Логотип Сахалинская Энергия" />
+                <p class="pd-client-review-text">Работаю с&nbsp;компанией больше десяти лет. Сотрудники всегда отзывчивые и внимательные, быстро реагируют на&nbsp;запросы, качественно и&nbsp;в&nbsp;срок выполняют заказ. Радует также и&nbsp;их компетентность в&nbsp;знании стандартов и ГОСТов печатной продукции. У&nbsp;компании большой ассортимент продукции; помимо материалов для&nbsp;работы, я&nbsp;заказывала фотообои на&nbsp;основе своего фото, результатом очень довольна!</p>
+                <img class="review-client-photo" src="images/client-5.png" alt="Отзыв клиента" />
+                <p class="review-client-name">Наталия П.<br />Специалист по&nbsp;охране труда,<br />«Сахалин Энерджи»</p>
             </div>
 
             <div class="pd-client-review review-2">
                 <img class="review-postman" src="images/post2.jpg" alt="Почтальон" />
-                <p class="pd-client-postman-text font-grey">Вот этот уже&nbsp;спускается по&nbsp;лестнице.
+                <p class="pd-client-postman-text font-grey">Скоро этот почтальон доставит отзыв от&nbsp;наших постоянных клиентов.
                 </p>
             </div>
 
